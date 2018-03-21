@@ -17,13 +17,13 @@
             <key>metadata</key>  
             <dict>  
                 <key>bundle-identifier</key>  
-                <string>com.fnst.smartwork</string>  
+                <string>com.jroption</string>  
                 <key>bundle-version</key>  
                 <string>1.0</string>  
                 <key>kind</key>  
                 <string>software</string>  
                 <key>title</key>  
-                <string>期权人.ipa</string>  
+                <string>期权人</string>  
             </dict>  
         </dict>  
     </array>  
